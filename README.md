@@ -12,3 +12,13 @@
 * RAM: ADATA DDR4 2666 8GB x 2
 * Wi-Fi & Bluetooth: BCM94360CS2
 * Monitor: DELL P2415Q
+
+## Works
+
+* Ethernet ✅
+* Wi-Fi ✅
+* Bluetooth ✅
+* Audio ✅
+* Sleep & Wake ✅
+* CPU Frequency ✅
+* Hand Off/iCloud ✅
