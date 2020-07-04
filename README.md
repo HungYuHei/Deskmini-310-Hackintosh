@@ -22,3 +22,7 @@
 * Sleep & Wake ✅
 * CPU Frequency ✅
 * Hand Off/iCloud ✅
+
+## Issues
+
+* Crashed after wake from sleep: enable PowerTimeoutKernelPanic option in config.plist
