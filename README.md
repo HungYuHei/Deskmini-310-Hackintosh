@@ -1,17 +1,19 @@
-# Deskmini Hackintosh
+# Deskmini 310 Hackintosh
 
 ![os-img](resources/os.png)
 
 ## Tech Specs
 
-* OS: macOS Catalina 10.15.x (SMBIOS: Macmini8,1)
-* OpenCore: 0.5.9
-* CPU: Intel i5-9400
-* GPU: Intel UHD Graphics 630
-* SSD: Kioxia RC10 500G
-* RAM: ADATA DDR4 2666 8GB x 2
-* Wi-Fi & Bluetooth: BCM94360CS2
-* Monitor: DELL P2415Q
+| | |
+| ------------- | ------------- |
+| OS | macOS Catalina 10.15.x (SMBIOS: Macmini8,1) |
+| OpenCore | 0.5.9 |
+| CPU | Intel i5-9400 |
+| GPU | Intel UHD Graphics 630 |
+| RAM | ADATA DDR4 2666 8GB x 2 |
+| SSD | Kioxia RC10 500G |
+| Wi-Fi & Bluetooth | BCM94360CS2 |
+| Monitor | DELL P2415Q |
 
 ## Works
 
@@ -21,7 +23,7 @@
 * Audio ✅
 * Sleep & Wake ✅
 * CPU Frequency ✅
-* Hand Off/iCloud ✅
+* Hand Off / iCloud ✅
 
 ## Issues
 
@@ -29,13 +31,19 @@
 
 ## BIOS settings
 
-* Load UEFI Defaults
-* Advanced > Chipset Configuration > Onboard HD Audio & Onboard HDMI HD Audio: Enabled
-* Advanced > USB Configuration > XHCI Hand-off: Enabled
-* Advanced > Super IO Configuration > Serial Port: Disabled
+Load UEFI Defaults
 
-* Advanced > CPU Configuration > C States Support: Enabled
-* Advanced > CPU Configuration > C States Support > CFG Lock: Disabled
-
-* Security > Security Boot: Disabled
-* Boot > CSM: Disabled
+* Advanced
+  * Chipset Configuration
+    * Onboard HD Audio: Enabled
+  * USB Configuration
+    * XHCI Hand-off: Enabled
+  * Super IO Configuration
+    * Serial Port: Disabled
+  * CPU Configuration
+    * C States Support: Enabled
+      * CFG Lock: Disabled
+* Security
+  * Security Boot: Disabled
+* Boot
+  * CSM: Disabled
