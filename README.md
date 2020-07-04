@@ -25,25 +25,25 @@
 * CPU Frequency ✅
 * Hand Off / iCloud ✅
 
-## Issues
-
-* Crashed after wake from sleep: enable PowerTimeoutKernelPanic option in config.plist
-
-## BIOS settings
+## BIOS settings (Version: P4.40)
 
 Load UEFI Defaults
 
 * Advanced
-  * Chipset Configuration
-    * Onboard HD Audio: Enabled
-  * USB Configuration
-    * XHCI Hand-off: Enabled
-  * Super IO Configuration
-    * Serial Port: Disabled
-  * CPU Configuration
-    * C States Support: Enabled
-      * CFG Lock: Disabled
+  - Chipset Configuration
+    - Onboard HD Audio: Enabled
+  - USB Configuration
+    - XHCI Hand-off: Enabled
+  - Super IO Configuration
+    - Serial Port: Disabled
+  - CPU Configuration
+    - C States Support: Enabled
+      - CFG Lock: Disabled
 * Security
-  * Security Boot: Disabled
+  - Security Boot: Disabled
 * Boot
-  * CSM: Disabled
+  - CSM: Disabled
+
+## Issues
+
+* Crashed after wake from sleep: enable PowerTimeoutKernelPanic option in config.plist
