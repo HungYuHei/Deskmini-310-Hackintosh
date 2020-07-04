@@ -26,3 +26,16 @@
 ## Issues
 
 * Crashed after wake from sleep: enable PowerTimeoutKernelPanic option in config.plist
+
+## BIOS settings
+
+* Load UEFI Defaults
+* Advanced > Chipset Configuration > Onboard HD Audio & Onboard HDMI HD Audio: Enabled
+* Advanced > USB Configuration > XHCI Hand-off: Enabled
+* Advanced > Super IO Configuration > Serial Port: Disabled
+
+* Advanced > CPU Configuration > C States Support: Enabled
+* Advanced > CPU Configuration > C States Support > CFG Lock: Disabled
+
+* Security > Security Boot: Disabled
+* Boot > CSM: Disabled
