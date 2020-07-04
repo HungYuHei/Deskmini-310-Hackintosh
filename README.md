@@ -53,6 +53,7 @@ Load UEFI Defaults
 * [gibMacOS](https://github.com/corpnewt/gibMacOS) : Download macOS
 * [ProperTree](https://github.com/corpnewt/ProperTree) : Universal plist editor
 * [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) : Generate SMBIOS data
+* [Apple Check Coverage page](https://checkcoverage.apple.com/)
 
 ## Credits
 
