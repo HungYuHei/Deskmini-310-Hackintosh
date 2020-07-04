@@ -47,3 +47,13 @@ Load UEFI Defaults
 ## Issues
 
 * Crashed after wake from sleep: enable PowerTimeoutKernelPanic option in config.plist
+
+## Tools
+
+* [gibMacOS](https://github.com/corpnewt/gibMacOS) : Download macOS
+* [ProperTree](https://github.com/corpnewt/ProperTree) : Universal plist editor
+* [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) : Generate SMBIOS data
+
+## Credits
+
+[xjn819 blog](https://blog.xjn819.com/?p=7)
