@@ -46,7 +46,7 @@ Load UEFI Defaults
 
 ## Issues
 
-* Crashed after wake from sleep: enable PowerTimeoutKernelPanic option in config.plist
+* Crash after waking up from sleep: enable `PowerTimeoutKernelPanic` option in config.plist
 
 ## Tools
 
