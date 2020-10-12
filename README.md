@@ -13,7 +13,7 @@
 | RAM | ADATA DDR4 2666 8GB x 2 |
 | SSD | Kioxia RC10 500G |
 | Wi-Fi & Bluetooth | BCM94360CS2 |
-| Monitor | DELL P2415Q |
+| Monitor | DELL P2415Q (4K@60Hz) |
 
 ## Works
 
