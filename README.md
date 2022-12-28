@@ -1,13 +1,13 @@
 # Deskmini 310 Hackintosh
 
-![os-img](resources/os.png)
+![os-img](resources/ventura.png)
 
 ## Tech Specs
 
 | | |
 | ------------- | ------------- |
-| OS | macOS Catalina 10.15.x (SMBIOS: Macmini8,1) |
-| OpenCore | 0.5.9 |
+| OS | macOS Ventura 13.1 (SMBIOS: Macmini8,1) |
+| OpenCore | 0.8.7 |
 | CPU | Intel i5-9400 |
 | GPU | Intel UHD Graphics 630 |
 | RAM | ADATA DDR4 2666 8GB x 2 |
@@ -44,9 +44,10 @@ Load UEFI Defaults
 * Boot
   - CSM: Disabled
 
-## Issues
+## Misc
 
 * Crash after waking up from sleep: enable `PowerTimeoutKernelPanic` option in config.plist
+* Remove `-v` from `boot-args` in config.plist if you don't want the debug mode
 
 ## Tools
 
