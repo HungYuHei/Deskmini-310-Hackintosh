@@ -51,7 +51,7 @@ Load UEFI Defaults
 
 ## Tools
 
-* [OpenCore-Desktop-Guide](https://dortania.github.io/OpenCore-Desktop-Guide/) : OpenCore manual
+* [OpenCore-Desktop-Guide](https://dortania.github.io/OpenCore-Install-Guide/) : OpenCore manual
 * [gibMacOS](https://github.com/corpnewt/gibMacOS) : Download macOS
 * [ProperTree](https://github.com/corpnewt/ProperTree) : Universal plist editor
 * [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) : Generate SMBIOS data
