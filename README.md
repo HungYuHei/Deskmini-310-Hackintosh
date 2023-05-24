@@ -46,6 +46,7 @@ Load UEFI Defaults
 
 ## Misc
 
+* Use [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) to generate the new SMBIOS (`MLB` `SystemSerialNumber` `SystemUUID`) for your config.plist
 * Crash after waking up from sleep: enable `PowerTimeoutKernelPanic` option in config.plist
 * Remove `-v` from `boot-args` in config.plist if you don't want the debug mode
 
