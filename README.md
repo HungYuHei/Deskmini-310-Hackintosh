@@ -6,11 +6,11 @@
 
 | | |
 | ------------- | ------------- |
-| OS | macOS Ventura 13.1 (SMBIOS: Macmini8,1) |
-| OpenCore | 0.8.7 |
+| OS | macOS Ventura 13.4 (SMBIOS: Macmini8,1) |
+| OpenCore | 0.9.2 |
 | CPU | Intel i5-9400 |
 | GPU | Intel UHD Graphics 630 |
-| RAM | ADATA DDR4 2666 8GB x 2 |
+| RAM | SEIWHALE DDR4 2666 16GB x 2 |
 | SSD | Kioxia RC10 500G |
 | Wi-Fi & Bluetooth | BCM94360CS2 |
 | Monitor | DELL P2415Q (4K@60Hz) |
